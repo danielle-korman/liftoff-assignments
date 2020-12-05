@@ -33,4 +33,4 @@ https://trello.com/b/U658nAfD/untitled-recipe-book-project
 ### Project Repo Link
 
 Include a link to your project on GitHub.
-https://github.com/danielle-korman/recipe-book
+https://github.com/LaunchCodeLiftoffProjects/recipe-book.git
